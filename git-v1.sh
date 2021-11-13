@@ -31,7 +31,7 @@ git commit -m "Comment : $input on $curtime"
 
 # Push the local files to github
 
-git push -u origin master
+git push -u origin main
 
 
 echo "################################################################"
